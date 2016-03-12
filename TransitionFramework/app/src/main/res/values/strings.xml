@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Transition Framework</string>
+
+    <string name="hello_world">The Framelayout below  will show the transition</string>
+    <string name="action_settings">Settings</string>
+</resources>
